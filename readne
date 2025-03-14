@@ -1,0 +1,19 @@
+Steps to follow:
+
+
+1.Get the images of the handwritten digits - using Data augmentation,Artificial
+synthesis etc
+
+
+2.Get the images with contrasting backgrounds and train using neural networks 
+
+
+STEP 1 :Load and Pre-process the Data
+
+
+STEP 2 :Train and Evaluate the svm model
+
+
+STEP 3:
+
+
